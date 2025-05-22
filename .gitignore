@@ -1,0 +1,21 @@
+# Ignorar carpetas de compilación y ejecutables
+bin/
+lib/
+*.exe
+*.o
+*.out
+*.class
+
+# Archivos de backup o temporales
+*~
+*.bak
+*.tmp
+
+# Archivos específicos de COBOL que no quieras subir
+*.listing
+*.idb
+*.map
+
+# Archivos de sistema
+.DS_Store
+
