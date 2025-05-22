@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
-           SELECT REPORT-FILE ASSIGN TO "report.txt"
+           SELECT REPORT-FILE ASSIGN TO "output/report.txt"
                ORGANIZATION IS LINE SEQUENTIAL.
 
        DATA DIVISION.

@@ -1,8 +1,11 @@
-payroll: payroll.cob
-	cobc -x -o payroll payroll.cob
+COBFLAGS = -Wall
 
-run: payroll
-	./payroll
+run: build
+	COB_LIBRARY_PATH=lib ./bin/payroll
+
+build: clean
+	mkdir -p bin lib output
+	cobc $(COBFLAGS) -x -o bin/payroll src/payroll.cob
 
 clean:
-	rm -f payroll report.txt
+	rm -rf bin lib output

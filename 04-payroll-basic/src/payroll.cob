@@ -3,9 +3,9 @@
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
-           SELECT EMPLOYEE-FILE ASSIGN TO "employees.txt"
+           SELECT EMPLOYEE-FILE ASSIGN TO "data/employees.txt"
                ORGANIZATION IS LINE SEQUENTIAL.
-           SELECT REPORT-FILE ASSIGN TO "report.txt"
+           SELECT REPORT-FILE ASSIGN TO "output/report.txt"
                ORGANIZATION IS LINE SEQUENTIAL.
 
        DATA DIVISION.

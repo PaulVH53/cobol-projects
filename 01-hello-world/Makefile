@@ -1,9 +1,11 @@
-hello: hello.cob
-	cobc -x -o hello hello.cob
+COBFLAGS = -Wall
 
-run: hello
-	./hello
+run: build
+	COB_LIBRARY_PATH=lib ./bin/hello
+
+build: clean
+	mkdir -p bin lib
+	cobc $(COBFLAGS) -x -o bin/hello src/hello.cob
 
 clean:
-	rm -f hello
-
+	rm -rf bin lib
