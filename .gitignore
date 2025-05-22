@@ -1,4 +1,6 @@
 # Ignorar carpetas de compilación y ejecutables
+**/bin/
+**/lib/
 bin/
 lib/
 *.exe
