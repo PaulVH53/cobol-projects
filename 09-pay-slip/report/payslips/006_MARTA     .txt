@@ -1,0 +1,1 @@
+ID: 006, Nombre: MARTA     , Base:  1400.00, Extra:      .00, Bruto:  1400.00, AFP:   112.00, Neto:  1288.00

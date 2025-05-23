@@ -1,0 +1,1 @@
+ID: 009, Nombre: JESSICA   , Base:  1920.00, Extra:      .00, Bruto:  1920.00, AFP:   153.60, Neto:  1766.40

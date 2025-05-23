@@ -1,0 +1,1 @@
+ID: 010, Nombre: DAVID     , Base:  2030.00, Extra:      .00, Bruto:  2030.00, AFP:   162.40, Neto:  1867.60

@@ -1,0 +1,1 @@
+ID: 001, Nombre: ANA       , Base:  1000.00, Extra:   300.00, Bruto:  1300.00, AFP:   104.00, Neto:  1196.00

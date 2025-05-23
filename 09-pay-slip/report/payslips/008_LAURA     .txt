@@ -1,0 +1,1 @@
+ID: 008, Nombre: LAURA     , Base:  2200.00, Extra:      .00, Bruto:  2200.00, AFP:   176.00, Neto:  2024.00

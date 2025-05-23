@@ -1,0 +1,1 @@
+ID: 004, Nombre: JORGE     , Base:  1400.00, Extra:   525.00, Bruto:  1925.00, AFP:   154.00, Neto:  1771.00

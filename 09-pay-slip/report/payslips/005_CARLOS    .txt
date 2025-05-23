@@ -1,0 +1,1 @@
+ID: 005, Nombre: CARLOS    , Base:  1200.00, Extra:      .00, Bruto:  1200.00, AFP:    96.00, Neto:  1104.00
