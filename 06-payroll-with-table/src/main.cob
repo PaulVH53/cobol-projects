@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. payroll.
+       PROGRAM-ID. main-payroll.
 
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.

@@ -20,4 +20,4 @@ build: clean prepare
 clean:
 	@echo ">> Limpiando directorios bin/, lib/ y report/payslips/..."
 	rm -rf bin lib report
-	
+
